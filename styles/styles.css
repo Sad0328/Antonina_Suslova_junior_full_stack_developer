@@ -209,7 +209,7 @@ body {
 
 .sidebar {
     width: 370px;
-    background: var(--sidebar-bgc);
+     background: var(--sidebar-bgc); 
 }
 
 .my-photo {
@@ -244,7 +244,8 @@ body {
 }
 
 .contacts-icon {
-    fill: var(--first-text-color);
+    
+fill: var(--first-text-color);
 }
 
 .contacts-type {
